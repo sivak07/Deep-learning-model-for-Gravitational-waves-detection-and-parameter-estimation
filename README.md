@@ -1,5 +1,5 @@
 
-# Training a CNN model for detecting and estimating the simulated Gravitational waves
+# Training a CNN model for detecting and estimating the parameters of simulated Gravitational waves
 ## This project contains a three modules which are
 
 1) Simulate the gravitational waves and non-gravitational waves with parameters
